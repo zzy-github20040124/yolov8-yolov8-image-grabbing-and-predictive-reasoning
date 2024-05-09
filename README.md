@@ -1,2 +1,1 @@
-# yolov8-yolov8-image-grabbing-and-predictive-reasoning
-yolov8
+打开main创建img_data文件夹就能用了
