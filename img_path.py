@@ -55,7 +55,7 @@ def get_now(need):
 
     time_now = time.strftime("\%Y-%m-%d-%H_%M_%S",time_1)
 
-    path = 'D:\AI\img_datas' + time_now
+    path = 'img_datas' + time_now
     path = path.strip()
     path = path.rstrip("\\")
 
